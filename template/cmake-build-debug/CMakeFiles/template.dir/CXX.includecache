@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/damaris/OOP/template/labeled.hpp
+iostream
+-
+string
+-
+
+/Users/damaris/OOP/template/main.cpp
+iostream
+-
+string
+-
+labeled.hpp
+/Users/damaris/OOP/template/labeled.hpp
+

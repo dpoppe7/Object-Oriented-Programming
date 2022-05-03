@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="136bf80a-30de-4e6d-ba39-05d165d2b6ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1nP2kdeI4t7EJVnxi5lbfiuRPve" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="136bf80a-30de-4e6d-ba39-05d165d2b6ee" name="Default Changelist" comment="" />
+      <created>1611277549516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611277549516</updated>
+      <workItem from="1611277550667" duration="4043000" />
+      <workItem from="1611292641122" duration="11142000" />
+      <workItem from="1611349836588" duration="221000" />
+      <workItem from="1611361019984" duration="689000" />
+      <workItem from="1611440350806" duration="9000" />
+      <workItem from="1611720352592" duration="2166000" />
+      <workItem from="1611799290623" duration="1350000" />
+      <workItem from="1611868381980" duration="139000" />
+      <workItem from="1611880773852" duration="848000" />
+      <workItem from="1611893161310" duration="1189000" />
+      <workItem from="1611947230743" duration="124000" />
+      <workItem from="1611951738521" duration="598000" />
+      <workItem from="1611956651015" duration="4599000" />
+      <workItem from="1612048103812" duration="275000" />
+      <workItem from="1612081571727" duration="204000" />
+      <workItem from="1612163353626" duration="4693000" />
+      <workItem from="1612325985106" duration="176000" />
+      <workItem from="1612380376635" duration="119000" />
+      <workItem from="1612486533949" duration="598000" />
+      <workItem from="1612509305710" duration="21000" />
+      <workItem from="1612818559786" duration="766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611303385286">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="426" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1611303385286" />
+    <state x="401" y="23" width="1039" height="877" key="dock-window-1" timestamp="1611356449494">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="401" y="23" width="1039" height="877" key="dock-window-1/0.23.1440.877@0.23.1440.877" timestamp="1611356449494" />
+  </component>
+</project>
